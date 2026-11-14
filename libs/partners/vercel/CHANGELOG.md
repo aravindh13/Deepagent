@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.3](https://github.com/aravindh13/Deepagent/compare/langchain-vercel-sandbox==0.0.2...langchain-vercel-sandbox==0.0.3) (2026-11-14)
+
+
+### Features
+
+* **code:** add Claude Opus 5 support ([#5049](https://github.com/aravindh13/Deepagent/issues/5049)) ([c0afec5](https://github.com/aravindh13/Deepagent/commit/c0afec5ab7e9860d1572002c1f689f95dd15cf8e))
+
+
+### Bug Fixes
+
+* **vercel:** require deepagents 0.7.x ([#5150](https://github.com/aravindh13/Deepagent/issues/5150)) ([d4e4c30](https://github.com/aravindh13/Deepagent/commit/d4e4c30b53f751b073dfd2da76b2817d3e768fab))
+
 ## [0.0.2](https://github.com/langchain-ai/deepagents/compare/langchain-vercel-sandbox==0.0.1...langchain-vercel-sandbox==0.0.2) (2026-07-29)
 
 ### Bug Fixes
