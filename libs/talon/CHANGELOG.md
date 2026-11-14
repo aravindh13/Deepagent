@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/aravindh13/Deepagent/compare/deepagents-talon==0.0.3...deepagents-talon==0.0.4) (2026-11-14)
+
+
+### Features
+
+* **code:** add Claude Opus 5 support ([#5049](https://github.com/aravindh13/Deepagent/issues/5049)) ([c0afec5](https://github.com/aravindh13/Deepagent/commit/c0afec5ab7e9860d1572002c1f689f95dd15cf8e))
+
 ## [0.0.3](https://github.com/langchain-ai/deepagents/compare/deepagents-talon==0.0.2...deepagents-talon==0.0.3) (2026-07-06)
 
 
